@@ -1,0 +1,10 @@
+Usar la informavmcion en internet de forma
+responsable permite una participacion ciudana mas
+critica y consciente, evitando la desinformacion. 
+Si la gente comparte cosas sin pensar, las
+decisiones colectivas se dañan. En herramientas
+como Git, esa misma logica aplica: hay que 
+organizar, documentar y respetar el trabajo de
+otros para que todo funcione bien. En ambos casos,
+la clave es la responsabilidad y la colaboracion.
+Si eso falla, todo seria un caos digital.
