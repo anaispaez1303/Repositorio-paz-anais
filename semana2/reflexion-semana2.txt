@@ -1,0 +1,11 @@
+Es importante que un desarrollador sepa usar la 
+terminal porque facilita la navegacion entre 
+carpetas y archivos del proyecto.
+Tambien permite crear, mover, copiar, y eliminar
+archivos de manera rapida. Con la terminal se 
+pueden ejecutar programas y comandos esenciales
+para programar. Ademas, ayuda a instalar herramientas
+necesarias para el desarrollo. Muchos entornos de
+programacion funcionan mejor desde la linea de 
+comandos. Usarla mejora la organizacion y la 
+productividad al trabajar en proyectos grandes.

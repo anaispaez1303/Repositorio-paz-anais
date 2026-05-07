@@ -1,0 +1,19 @@
+mkdir semana2
+cs semana2
+touch preguntas-semana2.txt
+nano preguntas-semana2.txt
+touch comandos-terminal1.txt
+nano comandos-terminal1.txt
+touch reflexion-semana2.txt
+nano reflexion-semana2.txt
+ls
+cd ..
+git add .
+git commit -m "Actividad Semana 2"
+git config --global user.email
+git config --global user.name
+git push
+git status
+
+
+
