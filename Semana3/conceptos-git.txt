@@ -1,0 +1,12 @@
+Repositorio: Es la carpeta principal de un proyecto
+donde se guarda todo el código, archivos y cambios.
+Es el lugar donde se organiza y controla todo el
+proyecto.
+
+Commit: Es el comando que permite guardar cambios con
+una descripcion. Suirve tambien para dejar un 
+registro de lo que se hizo en el trabajo o archivo
+y poder volver atras si algo sale mal.
+
+Push: Es el comando que sirve para enviar los 
+commits hacia el repositorio.

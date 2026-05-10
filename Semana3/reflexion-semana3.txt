@@ -1,0 +1,14 @@
+Es importante que los proyectos tengan un registro
+de Git porque permite guardar y controlar todos los
+cambios realizados en el código. Gracias a esto, los
+desarrolladores pueden volver a versiones anteriores
+si ocurre algún error. Tambien facilita el trabajo
+en equipo, ya que varias personas pueden colaborar
+en el mismo proyecto sin perder informacion. Git 
+ayuda a mantener el proyecto organizado y con un 
+historial claro de modificaciones.
+Ademas, permite identificar quien hizo cada cambio
+y en que momento. Esto mejora la seguridad y el
+control del desarrollo del software. Tambien hace 
+mas facil probar nuevas funciones sin dañar el
+proyecto principal.
